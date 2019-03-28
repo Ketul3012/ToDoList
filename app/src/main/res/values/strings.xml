@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="add_what_to_do">Add What to do</string>
+    <string name="add_when_to_do">Add When to do</string>
+    <string name="priority">Priority : </string>
+    <string name="delete_all_notes">Delete All Notes</string>
+</resources>
